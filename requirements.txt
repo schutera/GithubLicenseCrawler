@@ -1,2 +1,0 @@
-HeartSeg-Dataset==0.0.1
-DeepDive==0.0.1
