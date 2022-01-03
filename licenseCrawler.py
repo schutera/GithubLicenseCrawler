@@ -55,4 +55,4 @@ for repos in repositories:
             print('Warning - Something went wrong when requesting: ', repo)
             print(e)
 
-licenses.writerow(['This file has been generated with licenseFinder v0.1 - Contact: mark.schutera@gmail.com'])
+licenses.writerow(['I am not a lawyer - contact: mark.schutera@gmail.com'])
