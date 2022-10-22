@@ -27,3 +27,9 @@ Output file will be generated on the fly, named licenses.csv and the columns dep
 mark.schutera@gmail.com
 Obviously the Github API is way more powerful than what has been done here. Feel free to extend this code or preferably directly contribute here.
 
+Future work can include..
+
+.. a function to input for what purpose you want to use your own project, which then highlights packages with conflicting licenses.
+
+.. a function that recurrently walks through the licenses of the packages you included, and the ones they included, and the ones they included, and so on.
+
